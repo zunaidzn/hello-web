@@ -1,0 +1,103 @@
+body {
+  margin: 0px;
+}
+h1 {
+  font-size: 30px;
+}
+.welcome {
+  background-image: linear-gradient(#ff2f0033, #5600ff94), url(images/lap.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  display: flex;
+  box-shadow: -2px 0px 7px 5px rgb(151, 59, 59);
+}
+.background {
+  width: 400px;
+  height: 200px;
+  margin: 30px 0px 30px 30px;
+  padding: 20px;
+  background-color: rgb(0, 247, 255);
+  color: blue;
+  border-radius: 20px;
+  box-shadow: 0px 1px 6px 3px rgb(238, 238, 238);
+}
+.new {
+  color: rgba(216, 41, 25, 0.877);
+
+  padding: 5px;
+  background-size: contain;
+}
+.memberlist {
+  color: darkorchid;
+  line-height: 25px;
+}
+.mc {
+  color: darkred;
+  margin-left: 20px;
+}
+.section2 {
+  display: flex;
+}
+.od {
+  text-align: center;
+  color: rgb(187, 126, 14);
+  box-shadow: 0px 1px 6px 2px rgb(233, 187, 187);
+  height: 70px;
+  padding: 4px;
+}
+.memberlist {
+  width: 40%;
+  padding: 5%;
+  box-shadow: lawngreen 0px 1px 8px 2px;
+  margin: 5%;
+}
+.section3 {
+  display: flex;
+}
+.intro {
+  width: 60%;
+  margin-right: 5%;
+  padding: 5%;
+}
+.nam {
+  color: purple;
+}
+.email {
+  color: blue;
+}
+.year {
+  color: chartreuse;
+}
+.section3 {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.uuu {
+  text-decoration: none;
+  background-color: darksalmon;
+
+  padding: 5px;
+  font-weight: 700;
+}
+.section4 {
+  display: flex;
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+}
+.section5 {
+  display: flex;
+}
+.section6 {
+  display: flex;
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  box-shadow: 1px 1px 5px 5px rgb(219, 206, 206);
+}
+
+footer p {
+  color: red;
+  text-align: center;
+}
